@@ -14,3 +14,5 @@
 
 [Desenvolvimento de grandes projetos](http://www.softwarearchitecturenotes.com/LargeProjects.html)
 
+[Elixir Phoenix: Business Logic/GraphQL](https://medium.com/@uraniumsheep/business-logic-adapters-platforms-and-how-to-plug-it-together-83431f500a55)
+
