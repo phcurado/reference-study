@@ -16,3 +16,4 @@
 
 [Elixir Phoenix: Business Logic/GraphQL](https://medium.com/@uraniumsheep/business-logic-adapters-platforms-and-how-to-plug-it-together-83431f500a55)
 
+[Elixir Phoenix web api](https://lobotuerto.com/blog/building-a-json-api-in-elixir-with-phoenix/)
